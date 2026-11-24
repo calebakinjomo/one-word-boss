@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """One Word for the Boss — make.fun entry.
 
-Prints exactly one word describing your boss, and writes the same word
+Prints exactly one word describing your boss and writes that same word
 to $MAKEFUN_OUTPUT_DIR/entry.txt (default /output/entry.txt).
 """
 import os
